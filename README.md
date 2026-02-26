@@ -1,8 +1,14 @@
 # Governance-First AI Workflow Agent
 
-Governance-first AI workflow thinking partner. Built with Claude Code.
+Governance-first AI workflow thinking partner. Built with Claude.
 
 **TLDR:** A Socratic thinking partner for governance-first AI adoption in operational workflows. Built with Claude Code. Helps organizations adopt AI deliberately, with measurement, controls, and clear risk awareness—especially critical in regulated environments.
+
+## Built With
+
+This agent was designed with [Claude Code](https://www.anthropic.com/claude-code) and uses Claude's API for reasoning about governance and workflow transformation.
+
+
 
 **Status:** Open Source (MIT License) | **Version:** 1.0 | **Last Updated:** February 2026
 
